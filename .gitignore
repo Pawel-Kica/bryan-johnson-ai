@@ -1,0 +1,5 @@
+.env
+.bot/
+.claude/
+.DS_Store
+claude-memory/health-profile.md
